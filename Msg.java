@@ -6,7 +6,7 @@ public class Msg {
 		System.out.println("Employee Details are:");
 		System.out.println("Emp no is:"+eno);
 		System.out.println("Emp name is:" +ename);
-		System.out.println("My course is:" +course)
+		System.out.println("My course is:" +course);
 	}
 }
 
